@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My vvife.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51666</idno>
+            <idno type="STC">Wing M3171A</idno>
+            <idno type="STC">ESTC R214290</idno>
+            <idno type="EEBO-CITATION">99826487</idno>
+            <idno type="PROQUEST">99826487</idno>
+            <idno type="VID">30890</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30890)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1765:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>My vvife.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>[6], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Marriot, in St. Dunstans Church-yard, Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mostly in verse.</note>
+                  <note>"To the reader" signed: J.W.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30890:1"/>
+            <!-- PDF PAGE 56 -->
+            <pb facs="tcp:30890:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <p>MY WIFE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Marriot,</hi> in St. <hi>Dunstans</hi> Church-yard, <hi>Fleet-street,</hi> 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:30890:2"/>
+            <!-- PDF PAGE 57 -->
+            <pb facs="tcp:30890:2"/>
+            <!-- PDF PAGE 57 -->
+            <head>To the Reader. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Tis not fit a little book ſhould have a large Epiſtle, and therefore briefly this:</head>
+            <p>THe Author fancied this Wife at a ſeaſonable time to be marryed; which was, about the thirtieth year of his Age; he liv'd almoſt as long marryed to her, and dyed marryed to no o<g ref="char:EOLhyphen"/>ther. She has now been more then twenty yeares his widow; all which time, ſhe has been kept very faithfully, and as privately by a true friend of her Huſ<g ref="char:EOLhyphen"/>bands; and ſhe having been a Mourner ſo long, has been per<g ref="char:EOLhyphen"/>ſwaded
+<pb facs="tcp:30890:3"/>
+               <!-- PDF PAGE 58 -->
+by him to unvale her ſelf and appear in the light, that ſhe may become a Coppy for the beſt wives to write after.</p>
+            <p>And now each Reader that thinks fit may Court her, and by a ſtrict Civility get ſo much of her favour as to know her well; and by that knowledg have the ad<g ref="char:EOLhyphen"/>vantage of getting a Wife, as like her as his merits or his for<g ref="char:EOLhyphen"/>tune (who has uſually the grea<g ref="char:EOLhyphen"/>test ſhare in getting wives and riches) will allow him, but let him not flatter himſelf with a falſe hope of obtaining her, for
+<pb facs="tcp:30890:3"/>
+               <!-- PDF PAGE 58 -->
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he has proteſted to dye <hi>John Coopers</hi> widow</p>
+            <p>And yet, if ſhe ſhould prove <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o very a woman as to change her name, let me beg that though <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he break her promiſe, yet he uſe her kindly for her first husbands ſake, who was both Patient, and Humble, and Lear<g ref="char:EOLhyphen"/>ned, and remarkably Charita<g ref="char:EOLhyphen"/>ble; and indeed, a man of more viſible vertues, then a ſhort E<g ref="char:EOLhyphen"/>piſtle may enumerate.</p>
+            <p>And if the Reader ſhall doubt the juſtneſſe of this Commenda<g ref="char:EOLhyphen"/>tion, and require a double wit<g ref="char:EOLhyphen"/>neſſe
+<pb facs="tcp:30890:4"/>
+               <!-- PDF PAGE 59 -->
+for it, the Lady <hi>Dyot</hi> (for whoſe direction the Author crea<g ref="char:EOLhyphen"/>ted this Wife) will ſay ſhe knows it to be truth, and I know ſhe and I do both love his memory.</p>
+            <closer>
+               <signed>J. W.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:30890:4"/>
+            <!-- PDF PAGE 59 -->
+            <head>MY VVIFE.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>I Have paſt my maddeſt age,</l>
+               <l>Free from <hi>Cupid's</hi> fooliſh rage,</l>
+               <l>Free from ſighings, free from teares,</l>
+               <l>Free from hopes, and free from fears:</l>
+               <l>And yet I'le wed, if I can ſee</l>
+               <l>A Miſtreſs that is meet for me.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Firſt, I wo'd have her perſon ſuch,</l>
+               <l>As deformity cannot touch;</l>
+               <l>Be ſhe black, or brown, or fair,</l>
+               <l>Of Complexion, hue, or haire;</l>
+               <l>If my Miſtreſs comly be,</l>
+               <l>She'l prove fair enough for me.</l>
+            </lg>
+            <lg n="3">
+               <pb n="2" facs="tcp:30890:5"/>
+               <!-- PDF PAGE 60 -->
+               <head>III.</head>
+               <l>Courtly carriage in theſe dayes</l>
+               <l>Is but a ſuſpicious paiſe:</l>
+               <l>For my part I care not for't,</l>
+               <l>
+                  <hi>Nature</hi> is not made at Court:</l>
+               <l>Let a grave and vertuous Mother</l>
+               <l>Be my Wives Court, and no other.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Wealth I wiſh ſhe may have more</l>
+               <l>Then to keep her from being poor;</l>
+               <l>That ſhe need not love for need,</l>
+               <l>Nor I wealth her love to feed:</l>
+               <l>If in mind or means ſhe be</l>
+               <l>Rich, ſhe's rich enough for me.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>To be born of noble bloud,</l>
+               <l>Is to her that's good a good:</l>
+               <l>But to me it is no more</l>
+               <l>Then time paſt, or untry'd <hi>Ore:</hi>
+               </l>
+               <l>Be ſhe good, how ere ſhe be</l>
+               <l>Born, ſhe's nobly born to me.</l>
+            </lg>
+            <lg n="6">
+               <pb n="3" facs="tcp:30890:5"/>
+               <!-- PDF PAGE 60 -->
+               <head>VI.</head>
+               <l>True Religion will make</l>
+               <l>Any good for her own ſake;</l>
+               <l>But, let vertue be the Teacher</l>
+               <l>Of my Wife, before the Preacher;</l>
+               <l>She's good that wo'd uſe me well,</l>
+               <l>Were there neither Heaven nor Hell.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Who for beauty takes a Wife,</l>
+               <l>Chooſeth by the ſheath the knife;</l>
+               <l>And, who takes her for Eſtate,</l>
+               <l>Or for perſon, hath ill fate:</l>
+               <l>Theſe may periſh, or decay</l>
+               <l>On, or ere her Wedding day.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>Wealth is <hi>Fortunes</hi> and not mine,</l>
+               <l>
+                  <hi>Perſon</hi> owes decay to time:</l>
+               <l>
+                  <hi>Learning, Wit,</hi> and ſuch like parts</l>
+               <l>Raviſh mens, not womens hearts;</l>
+               <l>But a love, by true love bred,</l>
+               <l>Gives each night a maiden-head.</l>
+            </lg>
+            <lg n="9">
+               <pb n="4" facs="tcp:30890:6"/>
+               <!-- PDF PAGE 61 -->
+               <head>IX.</head>
+               <l>
+                  <hi>Wit</hi> and <hi>Eloquence</hi> of tongue,</l>
+               <l>Sho'd to me, not her, belong</l>
+               <l>Sober ſilence in a maid</l>
+               <l>Sayes enough when nothing's ſaid;</l>
+               <l>And a Wife when ſhe ſpeaks leaſt,</l>
+               <l>And that little well, ſpeaks beſt.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>When I Court her firſt ſhe ſhall</l>
+               <l>Neither credit nought nor all:</l>
+               <l>But, when time my truth has prov'd,</l>
+               <l>And ſhe finds ſhe is belov'd,</l>
+               <l>Let her then believe, and then</l>
+               <l>Firſt begin to love agen.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>Let her next be wiſe, and know</l>
+               <l>Love ſhall reap as Love ſhall ſow</l>
+               <l>Trying maſteries in a Wife,</l>
+               <l>Is the ſcab or bane of life:</l>
+               <l>And hath too oft had the fate,</l>
+               <l>To deſtroy a good Eſtate.</l>
+            </lg>
+            <lg n="12">
+               <pb n="5" facs="tcp:30890:6"/>
+               <!-- PDF PAGE 61 -->
+               <head>XII.</head>
+               <l>Children ſho'd not be loves end,</l>
+               <l>But loves mend: if God them ſend</l>
+               <l>She ſho'd love them for no other</l>
+               <l>Cauſe, but for my Wife's their Mother<g ref="char:punc">▪</g>
+               </l>
+               <l>If God ſend none I ſhould be</l>
+               <l>Child to her, and ſhe to me.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>For man is the ball of fate,</l>
+               <l>Toſt about from ſtate to ſtate;</l>
+               <l>Therefore God for one chief part</l>
+               <l>Give mine <hi>fortitude</hi> of heart,</l>
+               <l>That ſo ſhe may valiant prove,</l>
+               <l>And bear any loſs but love.</l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>Next I wiſh that my heart may</l>
+               <l>Find her's made of Wax, not Clay:</l>
+               <l>That my love may make her's be</l>
+               <l>More ſoft, not more hard to me;</l>
+               <l>She's loves hangman, and his hell</l>
+               <l>In whom a proud heart does dwell.</l>
+            </lg>
+            <lg n="15">
+               <pb n="6" facs="tcp:30890:7"/>
+               <!-- PDF PAGE 62 -->
+               <head>XV.</head>
+               <l>When the Prieſt has made us one,</l>
+               <l>Fleſh of fleſh and bone of bone;</l>
+               <l>We muſt Wed our wills together</l>
+               <l>And will one in both or neither<g ref="char:punc">▪</g>
+               </l>
+               <l>By her tongue my heart muſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peak,</l>
+               <l>Hers by mine muſt ſilence break.</l>
+            </lg>
+            <lg n="16">
+               <head>XVI.</head>
+               <l>Where two hearts be thus indented,</l>
+               <l>They live, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or they live contented;</l>
+               <l>Where they differ, there they die,</l>
+               <l>And their Marriage-knot untie:</l>
+               <l>They and none but they are Wed,</l>
+               <l>Whoſe hearts lodg both in one Bed.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>She that knows to ſpend or ſpare,</l>
+               <l>As times and occaſions are,</l>
+               <l>Brings a portion, bringing none,</l>
+               <l>But, much better bringing one;</l>
+               <l>One may well call ſuch a Wife,</l>
+               <l>The life of her husbands life.</l>
+            </lg>
+            <lg n="18">
+               <pb n="7" facs="tcp:30890:7"/>
+               <!-- PDF PAGE 62 -->
+               <head>XVIII.</head>
+               <l>She her husbands ſtate and ki<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Makes her glaſſe to dreſs her by<g ref="char:punc">▪</g>
+               </l>
+               <l>She a neat and wholſome dyet</l>
+               <l>Makes the utmoſt of her riot;</l>
+               <l>She, like a good Snaile, doth dwel.</l>
+               <l>Moſt at home in her own ſhell</l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>Such a Wife as this, wo'd make</l>
+               <l>
+                  <hi>Monkes</hi> their Cloyſters to forſake,</l>
+               <l>Such a Wife wo'd almoſt vex</l>
+               <l>
+                  <hi>Angels</hi> that they want a ſex;</l>
+               <l>Such a Wife I wiſh to nurſe</l>
+               <l>Both my body and my purſe.</l>
+            </lg>
+            <lg n="20">
+               <head>XX.</head>
+               <l>Thus i'th' <hi>mine</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> de chooſe my <hi>gold</hi>
+               </l>
+               <l>And my Wife caſt in a mould;</l>
+               <l>Yet, a Womans Son may vary,</l>
+               <l>But, I mean if ere I marry,</l>
+               <l>Either to have ſuch an one,</l>
+               <l>Or a better, which is none.</l>
+            </lg>
+            <closer>
+               <signed>Jc. COOPER.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="8" facs="tcp:30890:8"/>
+            <!-- PDF PAGE 63 -->
+            <head>The Book of Common Prayer.</head>
+            <lg>
+               <l>WHat prayer by the book? and Common?</l>
+               <l>Yes, why not?</l>
+               <l>The Spirit of Grace,</l>
+               <l>And ſupplication,</l>
+               <l>Is not left free alone</l>
+               <l>For time and place,</l>
+               <l>But manner too, to read or ſpeak by rote,</l>
+               <l>Is all alike to him that prays</l>
+               <l>With's heart, what with his mouth he ſays.</l>
+            </lg>
+            <lg>
+               <l>They that in private by themſelves alone</l>
+               <l>Do pray, may take</l>
+               <l>What liberty they pleaſe</l>
+               <l>In chooſing of the waies,</l>
+               <l>Wherein to make</l>
+               <l>Their ſouls moſt intimate affections known</l>
+               <l>To him that ſees in ſecret, when</l>
+               <l>Th' are moſt reſerv'd from other men.</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:30890:8"/>
+               <!-- PDF PAGE 63 -->
+               <l>But, he that unto others leads the way</l>
+               <l>In publick prayer,</l>
+               <l>Should chooſe to do it ſo</l>
+               <l>As all that hear may know</l>
+               <l>They need not fear<g ref="char:punc">▪</g>
+               </l>
+               <l>To tune their hearts unto his tongue, &amp; ſay</l>
+               <l>Amen; no doubt they were be<g ref="char:EOLunhyphen"/>tray'd</l>
+               <l>To blaſpheme, when they ſho'd have pray'd.</l>
+            </lg>
+            <lg>
+               <l>Devotion will adde life unto the Letter:</l>
+               <l>And, why ſho'd not</l>
+               <l>That which Authority</l>
+               <l>Preſcribes, eſteemed be</l>
+               <l>Advantage got?</l>
+               <l>If Prayer be good? the commoner the better.</l>
+               <l>Prayer in the Churches words, as well</l>
+               <l>As ſenſe, of all Prayers bears the Bell</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Ch: H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
